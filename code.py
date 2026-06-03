@@ -1,0 +1,1 @@
+print("chandana"+"is ready and fine ")
